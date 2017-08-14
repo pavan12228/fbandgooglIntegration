@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425731953223",
+    "project_id": "testmaps-172811"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425731953223:android:378912a995313f76",
+        "android_client_info": {
+          "package_name": "justjava.android.example.packagecom.sysbytes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425731953223-rfmt4suh2iosksaa324082fibgj3foam.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "425731953223-cianicbaq4vtagjvicdgihp5qndf1ou7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "justjava.android.example.packagecom.sysbytes",
+            "certificate_hash": "da5db7832c2f2038cdaa1f52a7746894f88dbbed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOpyoirEQOKIlkRmOw_wVbmkZXAazIC0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
